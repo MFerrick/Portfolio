@@ -1,6 +1,8 @@
 Marcie Ferrick Portfolio
 
-I have used the Stellar template by HTML5 UP to begin my web development portfolio. As I continue to learn, my ultimate goal is to re-create my portfolio from scratch. See below for information about this template.
+I have used the Stellar template by HTML5 UP to begin my web development portfolio. As I continue to learn, my ultimate goal is to re-create my portfolio from scratch and add additional content including wireframes. 
+
+See below for information about this template.
 
 
 Stellar by HTML5 UP
