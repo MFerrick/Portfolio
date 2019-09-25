@@ -3302,26 +3302,26 @@ input, select, textarea {
 /* Main */
 
 	#newsletter {
+		height: 220px;
+		width: 180px;
+	}
+
+	#ag {
+		height: 220px;
+		width: 180px;
+	}
+
+	#pathways {
+		height: 180px;
+		width: 220px;
+	}
+
+	#post {
 		height: 180px;
 		width: 180px;
 	}
 
-	#empty {
-		height: 180px;
-		width: 180px;
-	}
-
-	#empty2 {
-		height: 180px;
-		width: 180px;
-	}
-
-	.post {
-		height: 180px;
-		width: 180px;
-	}
-
-	.empty3 {
+	#sticky {
 		height: 180px;
 		width: 180px;
 	}
